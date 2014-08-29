@@ -1,2 +1,0 @@
-annayunyan.github.io
-====================
