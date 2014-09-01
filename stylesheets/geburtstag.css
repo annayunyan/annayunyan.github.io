@@ -1,0 +1,10 @@
+body {
+ background-image:url(../images/geburtstag.jpg); background-repeat:no-repeat;
+ background-position:center;
+ background-color:white; height:1024px;
+}
+
+h1, h3, p {
+ text-align: center;
+ color: DeepPink;
+}
